@@ -3,7 +3,7 @@
 To Create and Retrieve all data
 
 To get all the Products
-Url = http://127.0.0.1:8000/api
+Url = [http://127.0.0.1:8000/api](https://apicrud.pythonanywhere.com/api/)
 Method = GET
 To add Products
 Url = http://127.0.0.1:8000/api
@@ -28,11 +28,11 @@ How to edit with the help of id
 
 
 To get Product
-Url = http://127.0.0.1:8000/api/(specify id)
+Url = [http://127.0.0.1:8000/api/](https://apicrud.pythonanywhere.com/api/)(specify id)
 Method = GET
 
 To delete Product
-Url = http://127.0.0.1:8000/apii/(specify id)
+Url = [http://127.0.0.1:8000/apii/](https://apicrud.pythonanywhere.com/api/)(specify id)
 Method = DELETE
 To Update product
 Url = http://127.0.0.1:8000/apii/(specify id)
