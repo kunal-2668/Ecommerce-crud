@@ -36,9 +36,13 @@ Method = GET
 To delete Product
 Url = https://apicrud.pythonanywhere.com/api/(specify id)
 Method = DELETE
+
+
 To Update product
 Url = http://127.0.0.1:8000/apii/(specify id)
 Use in form data (POSTMAN)(
+
+![image](https://github.com/kunal-2668/Ecommerce-crud/assets/103948198/a59af62d-14bf-4ac9-b0dc-0b7b096cddc6)
 
 product: Sony
 product_category:Toys
