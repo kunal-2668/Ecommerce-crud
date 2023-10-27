@@ -5,8 +5,10 @@ To Create and Retrieve all data
 To get all the Products
 Url = https://apicrud.pythonanywhere.com/api/
 Method = GET
+
+
 To add Products
-Url = http://127.0.0.1:8000/api
+Url = https://apicrud.pythonanywhere.com/api/
 Method = POST
 
 
