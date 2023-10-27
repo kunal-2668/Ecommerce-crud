@@ -9,7 +9,11 @@ To add Products
 Url = http://127.0.0.1:8000/api
 Method = POST
 
+
 Use in form data (POSTMAN)(
+
+![image](https://github.com/kunal-2668/Ecommerce-crud/assets/103948198/47f02831-176d-4411-84a9-97ce9434bb46)
+
 
 product: Sony
 product_category:Toys
